@@ -1,6 +1,6 @@
 using System.Runtime.Serialization;
 
-namespace Location.Domain;
+namespace LocationService.Domain;
 
 [DataContract]
 public class LocationDetail
